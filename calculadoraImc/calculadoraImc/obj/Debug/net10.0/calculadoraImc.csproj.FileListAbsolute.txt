@@ -1,0 +1,14 @@
+C:\Users\sn1082031\Documents\aprendendocsharp\calculadoraImc\calculadoraImc\bin\Debug\net10.0\calculadoraImc.exe
+C:\Users\sn1082031\Documents\aprendendocsharp\calculadoraImc\calculadoraImc\bin\Debug\net10.0\calculadoraImc.deps.json
+C:\Users\sn1082031\Documents\aprendendocsharp\calculadoraImc\calculadoraImc\bin\Debug\net10.0\calculadoraImc.runtimeconfig.json
+C:\Users\sn1082031\Documents\aprendendocsharp\calculadoraImc\calculadoraImc\bin\Debug\net10.0\calculadoraImc.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\calculadoraImc\calculadoraImc\bin\Debug\net10.0\calculadoraImc.pdb
+C:\Users\sn1082031\Documents\aprendendocsharp\calculadoraImc\calculadoraImc\obj\Debug\net10.0\calculadoraImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1082031\Documents\aprendendocsharp\calculadoraImc\calculadoraImc\obj\Debug\net10.0\calculadoraImc.AssemblyInfoInputs.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\calculadoraImc\calculadoraImc\obj\Debug\net10.0\calculadoraImc.AssemblyInfo.cs
+C:\Users\sn1082031\Documents\aprendendocsharp\calculadoraImc\calculadoraImc\obj\Debug\net10.0\calculadoraImc.csproj.CoreCompileInputs.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\calculadoraImc\calculadoraImc\obj\Debug\net10.0\calculadoraImc.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\calculadoraImc\calculadoraImc\obj\Debug\net10.0\refint\calculadoraImc.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\calculadoraImc\calculadoraImc\obj\Debug\net10.0\calculadoraImc.pdb
+C:\Users\sn1082031\Documents\aprendendocsharp\calculadoraImc\calculadoraImc\obj\Debug\net10.0\calculadoraImc.genruntimeconfig.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\calculadoraImc\calculadoraImc\obj\Debug\net10.0\ref\calculadoraImc.dll

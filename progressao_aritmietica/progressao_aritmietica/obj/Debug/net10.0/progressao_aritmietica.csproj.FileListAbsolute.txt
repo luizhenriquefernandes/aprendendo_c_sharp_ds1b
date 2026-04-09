@@ -1,0 +1,14 @@
+C:\Users\sn1082031\Documents\aprendendocsharp\progressao_aritmietica\progressao_aritmietica\bin\Debug\net10.0\progressao_aritmietica.exe
+C:\Users\sn1082031\Documents\aprendendocsharp\progressao_aritmietica\progressao_aritmietica\bin\Debug\net10.0\progressao_aritmietica.deps.json
+C:\Users\sn1082031\Documents\aprendendocsharp\progressao_aritmietica\progressao_aritmietica\bin\Debug\net10.0\progressao_aritmietica.runtimeconfig.json
+C:\Users\sn1082031\Documents\aprendendocsharp\progressao_aritmietica\progressao_aritmietica\bin\Debug\net10.0\progressao_aritmietica.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\progressao_aritmietica\progressao_aritmietica\bin\Debug\net10.0\progressao_aritmietica.pdb
+C:\Users\sn1082031\Documents\aprendendocsharp\progressao_aritmietica\progressao_aritmietica\obj\Debug\net10.0\progressao_aritmietica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1082031\Documents\aprendendocsharp\progressao_aritmietica\progressao_aritmietica\obj\Debug\net10.0\progressao_aritmietica.AssemblyInfoInputs.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\progressao_aritmietica\progressao_aritmietica\obj\Debug\net10.0\progressao_aritmietica.AssemblyInfo.cs
+C:\Users\sn1082031\Documents\aprendendocsharp\progressao_aritmietica\progressao_aritmietica\obj\Debug\net10.0\progressao_aritmietica.csproj.CoreCompileInputs.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\progressao_aritmietica\progressao_aritmietica\obj\Debug\net10.0\progressao_aritmietica.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\progressao_aritmietica\progressao_aritmietica\obj\Debug\net10.0\refint\progressao_aritmietica.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\progressao_aritmietica\progressao_aritmietica\obj\Debug\net10.0\progressao_aritmietica.pdb
+C:\Users\sn1082031\Documents\aprendendocsharp\progressao_aritmietica\progressao_aritmietica\obj\Debug\net10.0\progressao_aritmietica.genruntimeconfig.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\progressao_aritmietica\progressao_aritmietica\obj\Debug\net10.0\ref\progressao_aritmietica.dll

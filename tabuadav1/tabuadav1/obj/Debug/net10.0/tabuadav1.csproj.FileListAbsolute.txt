@@ -1,0 +1,14 @@
+C:\Users\sn1082031\Documents\aprendendocsharp\tabuadav1\tabuadav1\bin\Debug\net10.0\tabuadav1.exe
+C:\Users\sn1082031\Documents\aprendendocsharp\tabuadav1\tabuadav1\bin\Debug\net10.0\tabuadav1.deps.json
+C:\Users\sn1082031\Documents\aprendendocsharp\tabuadav1\tabuadav1\bin\Debug\net10.0\tabuadav1.runtimeconfig.json
+C:\Users\sn1082031\Documents\aprendendocsharp\tabuadav1\tabuadav1\bin\Debug\net10.0\tabuadav1.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\tabuadav1\tabuadav1\bin\Debug\net10.0\tabuadav1.pdb
+C:\Users\sn1082031\Documents\aprendendocsharp\tabuadav1\tabuadav1\obj\Debug\net10.0\tabuadav1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1082031\Documents\aprendendocsharp\tabuadav1\tabuadav1\obj\Debug\net10.0\tabuadav1.AssemblyInfoInputs.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\tabuadav1\tabuadav1\obj\Debug\net10.0\tabuadav1.AssemblyInfo.cs
+C:\Users\sn1082031\Documents\aprendendocsharp\tabuadav1\tabuadav1\obj\Debug\net10.0\tabuadav1.csproj.CoreCompileInputs.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\tabuadav1\tabuadav1\obj\Debug\net10.0\tabuadav1.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\tabuadav1\tabuadav1\obj\Debug\net10.0\refint\tabuadav1.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\tabuadav1\tabuadav1\obj\Debug\net10.0\tabuadav1.pdb
+C:\Users\sn1082031\Documents\aprendendocsharp\tabuadav1\tabuadav1\obj\Debug\net10.0\tabuadav1.genruntimeconfig.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\tabuadav1\tabuadav1\obj\Debug\net10.0\ref\tabuadav1.dll

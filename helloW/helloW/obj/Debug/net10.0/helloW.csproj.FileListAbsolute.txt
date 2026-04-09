@@ -1,0 +1,14 @@
+C:\Users\sn1082031\Documents\aprendendocsharp\helloW\helloW\bin\Debug\net10.0\helloW.exe
+C:\Users\sn1082031\Documents\aprendendocsharp\helloW\helloW\bin\Debug\net10.0\helloW.deps.json
+C:\Users\sn1082031\Documents\aprendendocsharp\helloW\helloW\bin\Debug\net10.0\helloW.runtimeconfig.json
+C:\Users\sn1082031\Documents\aprendendocsharp\helloW\helloW\bin\Debug\net10.0\helloW.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\helloW\helloW\bin\Debug\net10.0\helloW.pdb
+C:\Users\sn1082031\Documents\aprendendocsharp\helloW\helloW\obj\Debug\net10.0\helloW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1082031\Documents\aprendendocsharp\helloW\helloW\obj\Debug\net10.0\helloW.AssemblyInfoInputs.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\helloW\helloW\obj\Debug\net10.0\helloW.AssemblyInfo.cs
+C:\Users\sn1082031\Documents\aprendendocsharp\helloW\helloW\obj\Debug\net10.0\helloW.csproj.CoreCompileInputs.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\helloW\helloW\obj\Debug\net10.0\helloW.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\helloW\helloW\obj\Debug\net10.0\refint\helloW.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\helloW\helloW\obj\Debug\net10.0\helloW.pdb
+C:\Users\sn1082031\Documents\aprendendocsharp\helloW\helloW\obj\Debug\net10.0\helloW.genruntimeconfig.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\helloW\helloW\obj\Debug\net10.0\ref\helloW.dll

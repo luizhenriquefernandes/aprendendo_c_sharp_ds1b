@@ -1,0 +1,14 @@
+C:\Users\sn1082031\Documents\aprendendocsharp\status_heroi\status_heroi\bin\Debug\net10.0\status_heroi.exe
+C:\Users\sn1082031\Documents\aprendendocsharp\status_heroi\status_heroi\bin\Debug\net10.0\status_heroi.deps.json
+C:\Users\sn1082031\Documents\aprendendocsharp\status_heroi\status_heroi\bin\Debug\net10.0\status_heroi.runtimeconfig.json
+C:\Users\sn1082031\Documents\aprendendocsharp\status_heroi\status_heroi\bin\Debug\net10.0\status_heroi.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\status_heroi\status_heroi\bin\Debug\net10.0\status_heroi.pdb
+C:\Users\sn1082031\Documents\aprendendocsharp\status_heroi\status_heroi\obj\Debug\net10.0\status_heroi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1082031\Documents\aprendendocsharp\status_heroi\status_heroi\obj\Debug\net10.0\status_heroi.AssemblyInfoInputs.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\status_heroi\status_heroi\obj\Debug\net10.0\status_heroi.AssemblyInfo.cs
+C:\Users\sn1082031\Documents\aprendendocsharp\status_heroi\status_heroi\obj\Debug\net10.0\status_heroi.csproj.CoreCompileInputs.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\status_heroi\status_heroi\obj\Debug\net10.0\status_heroi.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\status_heroi\status_heroi\obj\Debug\net10.0\refint\status_heroi.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\status_heroi\status_heroi\obj\Debug\net10.0\status_heroi.pdb
+C:\Users\sn1082031\Documents\aprendendocsharp\status_heroi\status_heroi\obj\Debug\net10.0\status_heroi.genruntimeconfig.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\status_heroi\status_heroi\obj\Debug\net10.0\ref\status_heroi.dll

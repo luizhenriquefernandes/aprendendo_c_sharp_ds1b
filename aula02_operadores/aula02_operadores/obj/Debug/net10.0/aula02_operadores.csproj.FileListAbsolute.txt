@@ -1,0 +1,14 @@
+C:\Users\sn1082031\Documents\aprendendocsharp\aula02_operadores\aula02_operadores\bin\Debug\net10.0\aula02_operadores.exe
+C:\Users\sn1082031\Documents\aprendendocsharp\aula02_operadores\aula02_operadores\bin\Debug\net10.0\aula02_operadores.deps.json
+C:\Users\sn1082031\Documents\aprendendocsharp\aula02_operadores\aula02_operadores\bin\Debug\net10.0\aula02_operadores.runtimeconfig.json
+C:\Users\sn1082031\Documents\aprendendocsharp\aula02_operadores\aula02_operadores\bin\Debug\net10.0\aula02_operadores.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\aula02_operadores\aula02_operadores\bin\Debug\net10.0\aula02_operadores.pdb
+C:\Users\sn1082031\Documents\aprendendocsharp\aula02_operadores\aula02_operadores\obj\Debug\net10.0\aula02_operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1082031\Documents\aprendendocsharp\aula02_operadores\aula02_operadores\obj\Debug\net10.0\aula02_operadores.AssemblyInfoInputs.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\aula02_operadores\aula02_operadores\obj\Debug\net10.0\aula02_operadores.AssemblyInfo.cs
+C:\Users\sn1082031\Documents\aprendendocsharp\aula02_operadores\aula02_operadores\obj\Debug\net10.0\aula02_operadores.csproj.CoreCompileInputs.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\aula02_operadores\aula02_operadores\obj\Debug\net10.0\aula02_operadores.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\aula02_operadores\aula02_operadores\obj\Debug\net10.0\refint\aula02_operadores.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\aula02_operadores\aula02_operadores\obj\Debug\net10.0\aula02_operadores.pdb
+C:\Users\sn1082031\Documents\aprendendocsharp\aula02_operadores\aula02_operadores\obj\Debug\net10.0\aula02_operadores.genruntimeconfig.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\aula02_operadores\aula02_operadores\obj\Debug\net10.0\ref\aula02_operadores.dll

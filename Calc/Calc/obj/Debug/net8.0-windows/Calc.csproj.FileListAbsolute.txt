@@ -1,0 +1,16 @@
+C:\Users\sn1082031\Documents\aprendendocsharp\Calc\Calc\bin\Debug\net8.0-windows\Calc.exe
+C:\Users\sn1082031\Documents\aprendendocsharp\Calc\Calc\bin\Debug\net8.0-windows\Calc.deps.json
+C:\Users\sn1082031\Documents\aprendendocsharp\Calc\Calc\bin\Debug\net8.0-windows\Calc.runtimeconfig.json
+C:\Users\sn1082031\Documents\aprendendocsharp\Calc\Calc\bin\Debug\net8.0-windows\Calc.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\Calc\Calc\bin\Debug\net8.0-windows\Calc.pdb
+C:\Users\sn1082031\Documents\aprendendocsharp\Calc\Calc\obj\Debug\net8.0-windows\Calc.csproj.GenerateResource.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\Calc\Calc\obj\Debug\net8.0-windows\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1082031\Documents\aprendendocsharp\Calc\Calc\obj\Debug\net8.0-windows\Calc.AssemblyInfoInputs.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\Calc\Calc\obj\Debug\net8.0-windows\Calc.AssemblyInfo.cs
+C:\Users\sn1082031\Documents\aprendendocsharp\Calc\Calc\obj\Debug\net8.0-windows\Calc.csproj.CoreCompileInputs.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\Calc\Calc\obj\Debug\net8.0-windows\Calc.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\Calc\Calc\obj\Debug\net8.0-windows\refint\Calc.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\Calc\Calc\obj\Debug\net8.0-windows\Calc.pdb
+C:\Users\sn1082031\Documents\aprendendocsharp\Calc\Calc\obj\Debug\net8.0-windows\Calc.genruntimeconfig.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\Calc\Calc\obj\Debug\net8.0-windows\ref\Calc.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\Calc\Calc\obj\Debug\net8.0-windows\Calc.frmPrincipal.resources

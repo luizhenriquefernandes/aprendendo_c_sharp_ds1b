@@ -1,0 +1,14 @@
+C:\Users\sn1082031\Documents\aprendendocsharp\Condicional\Condicional\bin\Debug\net10.0\Condicional.exe
+C:\Users\sn1082031\Documents\aprendendocsharp\Condicional\Condicional\bin\Debug\net10.0\Condicional.deps.json
+C:\Users\sn1082031\Documents\aprendendocsharp\Condicional\Condicional\bin\Debug\net10.0\Condicional.runtimeconfig.json
+C:\Users\sn1082031\Documents\aprendendocsharp\Condicional\Condicional\bin\Debug\net10.0\Condicional.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\Condicional\Condicional\bin\Debug\net10.0\Condicional.pdb
+C:\Users\sn1082031\Documents\aprendendocsharp\Condicional\Condicional\obj\Debug\net10.0\Condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1082031\Documents\aprendendocsharp\Condicional\Condicional\obj\Debug\net10.0\Condicional.AssemblyInfoInputs.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\Condicional\Condicional\obj\Debug\net10.0\Condicional.AssemblyInfo.cs
+C:\Users\sn1082031\Documents\aprendendocsharp\Condicional\Condicional\obj\Debug\net10.0\Condicional.csproj.CoreCompileInputs.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\Condicional\Condicional\obj\Debug\net10.0\Condicional.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\Condicional\Condicional\obj\Debug\net10.0\refint\Condicional.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\Condicional\Condicional\obj\Debug\net10.0\Condicional.pdb
+C:\Users\sn1082031\Documents\aprendendocsharp\Condicional\Condicional\obj\Debug\net10.0\Condicional.genruntimeconfig.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\Condicional\Condicional\obj\Debug\net10.0\ref\Condicional.dll

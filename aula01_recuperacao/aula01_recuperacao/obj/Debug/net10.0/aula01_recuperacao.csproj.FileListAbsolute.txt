@@ -1,0 +1,14 @@
+C:\Users\sn1082031\Documents\aprendendocsharp\aula01_recuperacao\aula01_recuperacao\bin\Debug\net10.0\aula01_recuperacao.exe
+C:\Users\sn1082031\Documents\aprendendocsharp\aula01_recuperacao\aula01_recuperacao\bin\Debug\net10.0\aula01_recuperacao.deps.json
+C:\Users\sn1082031\Documents\aprendendocsharp\aula01_recuperacao\aula01_recuperacao\bin\Debug\net10.0\aula01_recuperacao.runtimeconfig.json
+C:\Users\sn1082031\Documents\aprendendocsharp\aula01_recuperacao\aula01_recuperacao\bin\Debug\net10.0\aula01_recuperacao.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\aula01_recuperacao\aula01_recuperacao\bin\Debug\net10.0\aula01_recuperacao.pdb
+C:\Users\sn1082031\Documents\aprendendocsharp\aula01_recuperacao\aula01_recuperacao\obj\Debug\net10.0\aula01_recuperacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1082031\Documents\aprendendocsharp\aula01_recuperacao\aula01_recuperacao\obj\Debug\net10.0\aula01_recuperacao.AssemblyInfoInputs.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\aula01_recuperacao\aula01_recuperacao\obj\Debug\net10.0\aula01_recuperacao.AssemblyInfo.cs
+C:\Users\sn1082031\Documents\aprendendocsharp\aula01_recuperacao\aula01_recuperacao\obj\Debug\net10.0\aula01_recuperacao.csproj.CoreCompileInputs.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\aula01_recuperacao\aula01_recuperacao\obj\Debug\net10.0\aula01_recuperacao.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\aula01_recuperacao\aula01_recuperacao\obj\Debug\net10.0\refint\aula01_recuperacao.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\aula01_recuperacao\aula01_recuperacao\obj\Debug\net10.0\aula01_recuperacao.pdb
+C:\Users\sn1082031\Documents\aprendendocsharp\aula01_recuperacao\aula01_recuperacao\obj\Debug\net10.0\aula01_recuperacao.genruntimeconfig.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\aula01_recuperacao\aula01_recuperacao\obj\Debug\net10.0\ref\aula01_recuperacao.dll

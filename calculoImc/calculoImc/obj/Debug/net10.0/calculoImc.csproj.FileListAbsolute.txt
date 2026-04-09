@@ -1,0 +1,14 @@
+C:\Users\sn1082031\Documents\aprendendocsharp\calculoImc\calculoImc\bin\Debug\net10.0\calculoImc.exe
+C:\Users\sn1082031\Documents\aprendendocsharp\calculoImc\calculoImc\bin\Debug\net10.0\calculoImc.deps.json
+C:\Users\sn1082031\Documents\aprendendocsharp\calculoImc\calculoImc\bin\Debug\net10.0\calculoImc.runtimeconfig.json
+C:\Users\sn1082031\Documents\aprendendocsharp\calculoImc\calculoImc\bin\Debug\net10.0\calculoImc.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\calculoImc\calculoImc\bin\Debug\net10.0\calculoImc.pdb
+C:\Users\sn1082031\Documents\aprendendocsharp\calculoImc\calculoImc\obj\Debug\net10.0\calculoImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1082031\Documents\aprendendocsharp\calculoImc\calculoImc\obj\Debug\net10.0\calculoImc.AssemblyInfoInputs.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\calculoImc\calculoImc\obj\Debug\net10.0\calculoImc.AssemblyInfo.cs
+C:\Users\sn1082031\Documents\aprendendocsharp\calculoImc\calculoImc\obj\Debug\net10.0\calculoImc.csproj.CoreCompileInputs.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\calculoImc\calculoImc\obj\Debug\net10.0\calculoImc.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\calculoImc\calculoImc\obj\Debug\net10.0\refint\calculoImc.dll
+C:\Users\sn1082031\Documents\aprendendocsharp\calculoImc\calculoImc\obj\Debug\net10.0\calculoImc.pdb
+C:\Users\sn1082031\Documents\aprendendocsharp\calculoImc\calculoImc\obj\Debug\net10.0\calculoImc.genruntimeconfig.cache
+C:\Users\sn1082031\Documents\aprendendocsharp\calculoImc\calculoImc\obj\Debug\net10.0\ref\calculoImc.dll
